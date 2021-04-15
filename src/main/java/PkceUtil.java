@@ -1,4 +1,3 @@
-//package com.appsdeveloperblog.pkce;
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
